@@ -1,5 +1,7 @@
 <p align="center">
-  <a href="https://github.com/stellar-gaming-hub" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Stellar Gaming Hub Logo" /></a>
+  <a href="https://github.com/stellar-gaming-hub" target="blank">
+    <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f3ae.svg" width="120" alt="Stellar Gaming Hub Logo" />
+  </a>
 </p>
 
 # Stellar Gaming Hub: Frontend API & Client Portal
@@ -8,10 +10,10 @@
 
 A modern, responsive Next.js and TypeScript Web3 frontend platform for discovering games, managing digital assets, and supporting gaming creators through continuous funding streams.
 
-![![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
-![![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/stellar-gaming-hub/Gaming-frontend)
-![![Drips Protocol](https://img.shields.io/badge/Funding-Drips_Protocol-blue)](https://drips.network)
-![![Node Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/stellar-gaming-hub/Gaming-frontend/blob/main/LICENSE)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/stellar-gaming-hub/Gaming-frontend)
+[![Drips Protocol](https://img.shields.io/badge/Funding-Drips_Protocol-blue.svg)](https://drips.network)
+[![Node Version](https://img.shields.io/badge/Node-%3E%3D18.0.0-brightgreen.svg)](https://nodejs.org/)
 
 ---
 
